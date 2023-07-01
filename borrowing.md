@@ -16,4 +16,4 @@ You repay a loan using the same asset that you borrowed, plus the interest agree
 
 ### Can I bundle my assets?
 
-Our token bundler tool allows you to do just that! Check out our [Token bundler guide](https://docs.pwn.xyz/guides/tools/token-bundler) if you want to bundle multiple assets together.
+Our token bundler tool allows you to do just that! Check out our [Token bundler guide](https://pwn.mirror.xyz/NciALcrSBBv\_vkIbVkgubQnkATI3UcnTQG6WZ3Bl\_YI) if you want to bundle multiple assets together.

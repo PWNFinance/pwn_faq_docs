@@ -18,11 +18,11 @@ The loan duration is agreed upon at the start of the loan, as determined by the 
 
 ### How do I pay back the loan? When do I get my NFT back? What happens if I don’t repay my loan?&#x20;
 
-You can pay back the loan at any time before the duration ends, simply by having the amount to repay in your Ethereum wallet and making a transaction to repay the loan via the PWN UI.
+You can pay back the loan at any time before the duration ends, simply by having the amount to repay in your Ethereum wallet and making a transaction to repay the loan via the PWN Platform.
 
-After repayment, your collateral is transferred back to your wallet from the PWN vault contract.
+After repayment, your collateral is transferred back to your wallet from the PWN Protocol.
 
-In the event that you do not repay your loan, your collateral will be kept in the PWN vault and can then be claimed by the lender.&#x20;
+In the event that you do not repay your loan, your collateral will be kept in the PWN Protocol and can then be claimed by the lender.&#x20;
 
 ### How does liquidation work on PWN?&#x20;
 
