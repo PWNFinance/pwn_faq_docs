@@ -6,8 +6,6 @@
 
 The PWN Protocol is currently deployed on **Ethereum mainnet and Polygon**.
 
-PWN is a peer-to-peer lending protocol on Ethereum and Polygon that allows users to **borrow and lend digital assets backed by any other digital assets**. Borrowers can receive a loan of ERC-20 tokens backed by their own ERC-20 tokens or NFTs, and lenders can earn interest on their tokens by granting these loans. This process is managed by smart contracts that are completely **trustless, decentralized and immutable**.
-
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Why PWN?&#x20;
