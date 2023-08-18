@@ -2,7 +2,7 @@
 
 ### Which chains/ETH L2s is PWN planning to expand to?
 
-PWN Protocol is currently deployed on the Ethereum mainnet and Polygon. We plan to expand to other chains as determined by user and community input. If you would like us to consider a specific Ethereum L2, please contact us at support@pwn.xyz.&#x20;
+We plan to expand to other chains as determined by user and community input. If you would like us to consider a specific chain, please contact us at support@pwn.xyz.&#x20;
 
 ### Is there any risk? (Are the contracts audited? Is PWN safe?)&#x20;
 

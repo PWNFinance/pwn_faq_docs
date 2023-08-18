@@ -20,9 +20,11 @@ PWN does this with minimal on-chain transactions, allowing users to freely creat
 
 As a borrower on PWN, you create a "loan request" by selecting the token and amount you would like to borrow and the duration that you'd like to pay it back in. You then select the asset (ERC-20 or NFT) that you would like to use as collateral. This process creates an off-chain record that appears in our UI so lenders can make offers on it.
 
+You can also accept a collection offer. Lenders can create an offer for an entire collection and if you have an asset from that collection, you don't need to wait for offers on your loan request and rather immediately accept the collection offer.&#x20;
+
 ### How do I interact with PWN as a lender?&#x20;
 
-As a lender, you can view the list of loan requests on each chain we support and make offers to the borrower. These offers are not required to be the exact token or amount they would like, but it may help you get accepted if it's close. Once an offer is made, the borrower then needs to accept it, which transfers the collateral into the PWN Protocol, and the loan from the lender to the borrower.
+As a lender, you can view the list of loan requests on each chain we support and make offers to the borrower. These offers are not required to be the exact token or amount they would like, but it may help you get accepted if it's close. Once an offer is made, the borrower then needs to accept it, which transfers the collateral into the PWN Protocol, and the loan from the lender to the borrower. Another option is to create a collection offer. You can search for your desired collection on the PWN Platform and create an offer for all assets in the specific collection.
 
 In the event of a default on a loan, the lender can then claim the collateral from the PWN Protocol, rather than the borrower.&#x20;
 
