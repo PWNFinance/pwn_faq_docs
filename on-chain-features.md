@@ -2,7 +2,7 @@
 
 ### Which chains/ETH L2s is PWN planning to expand to?
 
-We plan to expand to other chains as determined by user and community input. If you would like us to consider a specific chain, please contact us at support@pwn.xyz.&#x20;
+We plan to expand to other chains as determined by users and community input. If you would like us to consider a specific chain, please contact us at support@pwn.xyz.&#x20;
 
 ### Is there any risk? (Are the contracts audited? Is PWN safe?)&#x20;
 
